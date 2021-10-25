@@ -7,6 +7,7 @@ def test_attach_text():
 # html
 def test_attach_html():
     allure.attach("<body>这是一段htmlbody块</body>","html测试块",attachment_type=allure.attachment_type.HTML)
+    print("测试模块啦")
 
 # 图片
 def test_attach_photo():
