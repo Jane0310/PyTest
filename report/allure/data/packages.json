@@ -1,0 +1,57 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testdemo.python-allure使用",
+    "children" : [ {
+      "name" : "test_success",
+      "uid" : "1da18c0f2c498ec0",
+      "parentUid" : "ef830407160c117090a0ed82a070e194",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635060717541,
+        "stop" : 1635060717541,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_dailure",
+      "uid" : "eeb83f0e16e6a0f8",
+      "parentUid" : "ef830407160c117090a0ed82a070e194",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635060717552,
+        "stop" : 1635060717553,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_skip",
+      "uid" : "1924392600fba26d",
+      "parentUid" : "ef830407160c117090a0ed82a070e194",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1635060717637,
+        "stop" : 1635060717637,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_broken",
+      "uid" : "1dedca6c96625dc0",
+      "parentUid" : "ef830407160c117090a0ed82a070e194",
+      "status" : "broken",
+      "time" : {
+        "start" : 1635060717643,
+        "stop" : 1635060717644,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testdemo.python-allure使用"
+  } ]
+}

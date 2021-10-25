@@ -1,0 +1,52 @@
+{
+  "uid" : "1da18c0f2c498ec0",
+  "name" : "test_success",
+  "fullName" : "testdemo.python-allure使用#test_success",
+  "historyId" : "49db681d21ec593d1a9c5d5ce393256f",
+  "time" : {
+    "start" : 1635060717541,
+    "stop" : 1635060717541,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testdemo"
+  }, {
+    "name" : "suite",
+    "value" : "python-allure使用"
+  }, {
+    "name" : "host",
+    "value" : "010A05050057"
+  }, {
+    "name" : "thread",
+    "value" : "2256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testdemo.python-allure使用"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1da18c0f2c498ec0.json",
+  "parameterValues" : [ ]
+}

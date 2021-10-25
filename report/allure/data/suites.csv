@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","testdemo.python-allure使用#test_success","0",""
+"broken","testdemo.python-allure使用#test_broken","1",""
+"failed","testdemo.python-allure使用#test_dailure","1",""
+"skipped","testdemo.python-allure使用#test_skip","0",""

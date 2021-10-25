@@ -1,0 +1,81 @@
+{
+  "f40d7207181dd852d288b9e514f9bc51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1924392600fba26d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: for a reason!",
+      "time" : {
+        "start" : 1635060717637,
+        "stop" : 1635060717637,
+        "duration" : 0
+      }
+    } ]
+  },
+  "197969cbebcfe799a3fa71d4ddf7b596" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eeb83f0e16e6a0f8",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1635060717552,
+        "stop" : 1635060717553,
+        "duration" : 1
+      }
+    } ]
+  },
+  "49db681d21ec593d1a9c5d5ce393256f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1da18c0f2c498ec0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635060717541,
+        "stop" : 1635060717541,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2dd18f3719921a30641489bd07b18c5e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1dedca6c96625dc0",
+      "status" : "broken",
+      "statusDetails" : "Exception: oops",
+      "time" : {
+        "start" : 1635060717643,
+        "stop" : 1635060717644,
+        "duration" : 1
+      }
+    } ]
+  }
+}
